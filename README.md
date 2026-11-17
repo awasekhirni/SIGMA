@@ -7,6 +7,8 @@ Signature Intelligence and Geospatial Measurement Architecture(SIGMA)
 
 Signature Intelligence and Geospatial Measurement Architecture(SIGMA)
 - The Sum of All Signatures
+
+  
 Syed, Awase Khirni Ph.D.
 
 An open source unified, multidomain intelligence fusion platform that synthesizes measurement 
